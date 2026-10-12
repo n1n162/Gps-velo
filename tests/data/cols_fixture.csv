@@ -1,0 +1,10 @@
+# type;nom;lat;lon;alt - donnees (c) les contributeurs d'OpenStreetMap, licence ODbL
+lieu;Burcin;45.438152;5.443014;
+lieu;Les Abrets;45.549237;5.687985;
+lieu;Le Collet;45.627918;5.726403;
+col;TEST col altitude fausse;45.633089;5.709346;506
+col;TEST col sans altitude;45.633808;5.706134;
+col;TEST col trop loin;45.633808;5.717697;806
+col;Col du Mont Tournier;45.634886;5.709346;821
+lieu;TEST hameau loin;45.642323;5.734553;
+col;Col de l'Épine (test);45.9;5.9;1000
