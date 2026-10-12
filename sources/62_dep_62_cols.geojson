@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8788236,
+          50.7385534
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Col des Quatre Vents",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/9027126147",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9259074,
+          50.4593711
+        ]
+      },
+      "properties": {
+        "name": "Le Longval",
+        "natural": "saddle",
+        "source": "IGN - 2021-09",
+        "@id": "node/9428925250",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1188694,
+          50.2900547
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Col des Six Chemins",
+        "natural": "saddle",
+        "source": "IGN - 2022-06",
+        "@id": "node/10117222647",
+        "@type": "node"
+      }
+    }
+  ]
+}

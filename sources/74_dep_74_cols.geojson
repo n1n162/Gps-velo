@@ -1,0 +1,6504 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.244757,
+          45.8084626
+        ]
+      },
+      "properties": {
+        "ele": "1147",
+        "lwn_name": "Col de la Forclaz",
+        "mountain_pass": "yes",
+        "name": "Col de la Forclaz",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260789",
+        "wikidata": "Q8559760",
+        "wikipedia": "fr:Col de la Forclaz (lac d'Annecy)",
+        "@id": "node/30569504",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2120184,
+          45.873176
+        ]
+      },
+      "properties": {
+        "ele": "631",
+        "mountain_pass": "yes",
+        "name": "Col de Bluffy",
+        "natural": "saddle",
+        "@id": "node/30839972",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3322222,
+          45.9667186
+        ]
+      },
+      "properties": {
+        "ele": "1440",
+        "mountain_pass": "yes",
+        "name": "Col des Glières",
+        "natural": "saddle",
+        "@id": "node/245011158",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.330855,
+          45.7913568
+        ]
+      },
+      "properties": {
+        "ele": "755",
+        "mountain_pass": "yes",
+        "name": "Col des Essérieux",
+        "@id": "node/262068737",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3342767,
+          45.8242929
+        ]
+      },
+      "properties": {
+        "ele": "843",
+        "mountain_pass": "yes",
+        "name": "Col du Marais",
+        "natural": "saddle",
+        "note": "coordonnées relevées au GPS - pas l'alti",
+        "@id": "node/262068842",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1316776,
+          45.7718344
+        ]
+      },
+      "properties": {
+        "ele": "901",
+        "lwn_name": "Col de Leschaux",
+        "mountain_pass": "yes",
+        "name": "Col de Leschaux",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260789",
+        "wikidata": "Q16507475",
+        "@id": "node/266682066",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1716169,
+          46.119499
+        ]
+      },
+      "properties": {
+        "ele": "1175",
+        "mountain_pass": "yes",
+        "name": "Col de la Croisette",
+        "natural": "saddle",
+        "@id": "node/266869094",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4298166,
+          45.9854451
+        ]
+      },
+      "properties": {
+        "ele": "1844",
+        "mountain_pass": "yes",
+        "name": "Col de la Forclaz",
+        "natural": "saddle",
+        "wikidata": "Q107185162",
+        "wikipedia": "fr:Col de la Forclaz (chaîne du Bargy)",
+        "@id": "node/281210218",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4447007,
+          45.9987571
+        ]
+      },
+      "properties": {
+        "ele": "1960",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col de Sosay",
+        "mountain_pass": "yes",
+        "name": "Col de Sosay",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/281214440",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4388608,
+          45.9837374
+        ]
+      },
+      "properties": {
+        "ele": "1909",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Sous le Buclon",
+        "mountain_pass": "yes",
+        "name": "Col Sous le Buclon",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q2987191",
+        "@id": "node/281216660",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5237091,
+          45.9701881
+        ]
+      },
+      "properties": {
+        "ele": "1721",
+        "mountain_pass": "yes",
+        "name": "Col des Annes",
+        "natural": "saddle",
+        "@id": "node/281541824",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4570095,
+          45.9980997
+        ]
+      },
+      "properties": {
+        "ele": "2260",
+        "mountain_pass": "yes",
+        "name": "Col du Rasoir",
+        "natural": "saddle",
+        "@id": "node/283434461",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7129074,
+          46.1296217
+        ]
+      },
+      "properties": {
+        "ele": "1691",
+        "lwn_name": "Joux Plane",
+        "mountain_pass": "yes",
+        "name": "Col de Joux Plane",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "wikidata": "Q1107373",
+        "wikipedia": "fr:Col de Joux Plane",
+        "@id": "node/291336109",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9515113,
+          46.0246241
+        ]
+      },
+      "properties": {
+        "ele": "1997",
+        "expected_lwn_route_relations": "4",
+        "lwn_name": "Col des Posettes",
+        "mountain_pass": "yes",
+        "name": "Col des Posettes",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/291643662",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9979534,
+          45.8730054
+        ]
+      },
+      "properties": {
+        "ele": "3491",
+        "name": "Col des Hirondelles",
+        "natural": "saddle",
+        "wikidata": "Q132246244",
+        "@id": "node/307195522",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4648689,
+          45.872279
+        ]
+      },
+      "properties": {
+        "ele": "1487",
+        "mountain_pass": "yes",
+        "name": "Col des Aravis",
+        "natural": "saddle",
+        "wikidata": "Q533689",
+        "wikimedia_commons": "Category:Col des Aravis",
+        "wikipedia": "fr:Col des Aravis",
+        "@id": "node/333278195",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4540026,
+          46.2624076
+        ]
+      },
+      "properties": {
+        "ele": "1116",
+        "mountain_pass": "yes",
+        "name": "Col de Cou",
+        "natural": "saddle",
+        "wikidata": "Q2982041",
+        "wikimedia_commons": "Category:Col de Cou (vallée Verte)",
+        "wikipedia": "fr:Col de Cou (vallée Verte)",
+        "@id": "node/335952512",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4281246,
+          46.1978733
+        ]
+      },
+      "properties": {
+        "ele": "963",
+        "mountain_pass": "yes",
+        "name": "Col du Perret",
+        "natural": "saddle",
+        "@id": "node/337982262",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5200372,
+          46.2350994
+        ]
+      },
+      "properties": {
+        "ele": "1027",
+        "mountain_pass": "yes",
+        "name": "Col de Jambaz",
+        "natural": "saddle",
+        "wikidata": "Q2982062",
+        "@id": "node/339488732",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.346127,
+          46.0051924
+        ]
+      },
+      "properties": {
+        "ele": "1693",
+        "fixme": "Tracer passage de la falaise (pas de la truie) plutot qu'un col cf https://www.camptocamp.org/routes/188487/fr/montagne-de-sous-dine-par-le-pas-de-la-truie-et-le-monthieu-traversee-e-w",
+        "mountain_pass": "yes",
+        "name": "Pas de la Truie",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2007",
+        "@id": "node/343393898",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4949386,
+          45.8915678
+        ]
+      },
+      "properties": {
+        "alt_name": "Passage de la Pare",
+        "ele": "2480",
+        "name": "Col de Torchère",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2007",
+        "@id": "node/343412812",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5673044,
+          45.9988578
+        ]
+      },
+      "properties": {
+        "ele": "2014",
+        "mountain_pass": "yes",
+        "name": "La Gueule à Vent",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2007",
+        "@id": "node/343473769",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4220569,
+          46.03183
+        ]
+      },
+      "properties": {
+        "ele": "1507",
+        "fixme": "doublon avec https://www.openstreetmap.org/node/13252169269/history#map=19/46.028896/6.425119 ?",
+        "lwn_name": "Col de Solaison",
+        "mountain_pass": "yes",
+        "name": "Col de Solaison",
+        "network:type": "node_network",
+        "network:wikidata": "Q2987191",
+        "@id": "node/343488940",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4170329,
+          45.7975414
+        ]
+      },
+      "properties": {
+        "ele": "2038",
+        "name": "Golet de la Trouye",
+        "natural": "saddle",
+        "@id": "node/344285744",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1932905,
+          45.8896197
+        ]
+      },
+      "properties": {
+        "ele": "1054",
+        "mountain_pass": "yes",
+        "name": "Col des Contrebandiers",
+        "natural": "saddle",
+        "@id": "node/345675256",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2864444,
+          45.7859013
+        ]
+      },
+      "properties": {
+        "name": "Trou de l'Aiguille",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "@id": "node/365007989",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7239386,
+          45.7312334
+        ]
+      },
+      "properties": {
+        "ele": "2665",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col des Fours",
+        "mountain_pass": "yes",
+        "name": "Col des Fours",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2008",
+        "wikidata": "Q49131311",
+        "@id": "node/366007429",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8234414,
+          46.1084593
+        ]
+      },
+      "properties": {
+        "ele": "2338",
+        "mountain_pass": "yes",
+        "name": "Col des Chambres",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "@id": "node/366163009",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7389149,
+          46.2269053
+        ]
+      },
+      "properties": {
+        "ele": "1894",
+        "name": "Fenêtre d'Ardens",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "@id": "node/366321524",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8083973,
+          45.812415
+        ]
+      },
+      "properties": {
+        "ele": "3321",
+        "name": "Col Infranchissable",
+        "natural": "saddle",
+        "wikidata": "Q2981952",
+        "@id": "node/366356520",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7280154,
+          46.3439221
+        ]
+      },
+      "properties": {
+        "ele": "1812",
+        "lwn_name": "Col de la Case d'Oche",
+        "mountain_pass": "yes",
+        "name": "Col de la Case d'Oche",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "@id": "node/366601320",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9018713,
+          45.8835712
+        ]
+      },
+      "properties": {
+        "ele": "3474",
+        "name": "Col du Plan",
+        "natural": "saddle",
+        "@id": "node/367945275",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8273374,
+          45.838051
+        ]
+      },
+      "properties": {
+        "direction": "10",
+        "ele": "3888",
+        "name": "Col de Bionnassay",
+        "natural": "saddle",
+        "wikidata": "Q33164740",
+        "@id": "node/367945328",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.492149,
+          46.268529
+        ]
+      },
+      "properties": {
+        "ele": "1164",
+        "mountain_pass": "yes",
+        "name": "Col des Arces",
+        "natural": "saddle",
+        "wikidata": "Q2982204",
+        "wikipedia": "fr:Col des Arces",
+        "@id": "node/370055003",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2057311,
+          46.0915216
+        ]
+      },
+      "properties": {
+        "ele": "915",
+        "mountain_pass": "yes",
+        "name": "Col le Parc",
+        "natural": "saddle",
+        "@id": "node/375617793",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627715,
+          46.1824449
+        ]
+      },
+      "properties": {
+        "ele": "1636",
+        "mountain_pass": "yes",
+        "name": "Col de la Basse",
+        "natural": "saddle",
+        "@id": "node/410431674",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7599485,
+          46.3115666
+        ]
+      },
+      "properties": {
+        "ele": "1694",
+        "mountain_pass": "yes",
+        "name": "Col d'Ubine",
+        "natural": "saddle",
+        "@id": "node/410706513",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7744389,
+          46.3256087
+        ]
+      },
+      "properties": {
+        "ele": "1816",
+        "lwn_name": "Pas de la Bosse",
+        "mountain_pass": "yes",
+        "name": "Pas de la Bosse",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/410709050",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7603386,
+          46.3455488
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de Bemialet;Pas de Bémialet",
+        "check_date": "2015-08-27",
+        "ele": "1915",
+        "lwn_name": "Col de Bise",
+        "mountain_pass": "yes",
+        "name": "Col de Bise",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/410709051",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5806587,
+          46.1593242
+        ]
+      },
+      "properties": {
+        "ele": "1619",
+        "mountain_pass": "yes",
+        "name": "Col de la Ramaz",
+        "natural": "saddle",
+        "wikidata": "Q2982196",
+        "wikipedia": "fr:Col de la Ramaz",
+        "@id": "node/410847826",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1734093,
+          45.7515454
+        ]
+      },
+      "properties": {
+        "ele": "1379",
+        "expected_rwn_route_relations": "2",
+        "lwn_name": "Col de la Frasse",
+        "mountain_pass": "yes",
+        "name": "Col de la Frasse",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260789",
+        "@id": "node/429236327",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5380209,
+          45.9637171
+        ]
+      },
+      "properties": {
+        "ele": "1925",
+        "mountain_pass": "yes",
+        "name": "Col de l'Oulettaz",
+        "natural": "saddle",
+        "@id": "node/455025560",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772223,
+          46.2225156
+        ]
+      },
+      "properties": {
+        "ele": "1778",
+        "mountain_pass": "yes",
+        "name": "Col de Bassachaux",
+        "natural": "saddle",
+        "wikidata": "Q2982007",
+        "wikipedia": "fr:Col de Bassachaux",
+        "@id": "node/458872789",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8049995,
+          46.196971
+        ]
+      },
+      "properties": {
+        "ele": "1992",
+        "mountain_pass": "yes",
+        "name": "Col de Chésery",
+        "natural": "saddle",
+        "wikidata": "Q97687907",
+        "wikipedia": "fr:Col de Chésery",
+        "@id": "node/458872921",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7609919,
+          46.1313032
+        ]
+      },
+      "properties": {
+        "ele": "1660",
+        "mountain_pass": "yes",
+        "name": "Col de la Golèse",
+        "natural": "saddle",
+        "@id": "node/458892216",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4624171,
+          46.0008847
+        ]
+      },
+      "properties": {
+        "ele": "2246",
+        "mountain_pass": "yes",
+        "name": "Col de Balafrasse",
+        "natural": "saddle",
+        "@id": "node/469238848",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1273621,
+          45.8850966
+        ]
+      },
+      "properties": {
+        "ele": "685",
+        "name": "Pas de l'Échelle",
+        "natural": "saddle",
+        "@id": "node/469380921",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.876032,
+          45.9899824
+        ]
+      },
+      "properties": {
+        "ele": "2780",
+        "mountain_pass": "yes",
+        "name": "Col du Belvédère",
+        "natural": "saddle",
+        "@id": "node/469384987",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8903795,
+          45.9938139
+        ]
+      },
+      "properties": {
+        "ele": "2807",
+        "mountain_pass": "yes",
+        "name": "Col de Beugeant",
+        "natural": "saddle",
+        "@id": "node/469385126",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8578558,
+          45.991249
+        ]
+      },
+      "properties": {
+        "ele": "2460",
+        "mountain_pass": "yes",
+        "name": "Col de Bérard",
+        "natural": "saddle",
+        "@id": "node/469385410",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8526937,
+          46.0014668
+        ]
+      },
+      "properties": {
+        "ele": "2497",
+        "mountain_pass": "yes",
+        "name": "Brèche de Salenton",
+        "natural": "saddle",
+        "@id": "node/469385430",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8553249,
+          46.0072604
+        ]
+      },
+      "properties": {
+        "check_date": "2020-04",
+        "ele": "2526",
+        "lwn_name": "Col de Salenton",
+        "mountain_pass": "yes",
+        "name": "Col de Salenton",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q109998414",
+        "wikipedia": "fr:Col de Salenton",
+        "@id": "node/469385434",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8736831,
+          45.9851439
+        ]
+      },
+      "properties": {
+        "ele": "2790",
+        "name": "Col des Dards",
+        "natural": "saddle",
+        "wikidata": "Q124614765",
+        "@id": "node/469385438",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8717181,
+          45.9790725
+        ]
+      },
+      "properties": {
+        "ele": "2704",
+        "mountain_pass": "yes",
+        "name": "Col des Aiguilles Crochues",
+        "natural": "saddle",
+        "@id": "node/469385446",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.866188,
+          45.9736538
+        ]
+      },
+      "properties": {
+        "ele": "2752",
+        "mountain_pass": "yes",
+        "name": "Col de la Floria",
+        "natural": "saddle",
+        "@id": "node/469385448",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8590359,
+          45.9641519
+        ]
+      },
+      "properties": {
+        "ele": "2610",
+        "mountain_pass": "yes",
+        "name": "Col des Lacs Noirs",
+        "natural": "saddle",
+        "@id": "node/469385459",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8937941,
+          45.9981977
+        ]
+      },
+      "properties": {
+        "ele": "2579",
+        "mountain_pass": "yes",
+        "name": "Col de l'Encrenaz",
+        "natural": "saddle",
+        "@id": "node/469808153",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1749212,
+          45.9033095
+        ]
+      },
+      "properties": {
+        "ele": "1170",
+        "lwn_name": "Col des Sauts",
+        "mountain_pass": "yes",
+        "name": "Col des Sauts",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260789",
+        "@id": "node/470929463",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7592628,
+          46.1999809
+        ]
+      },
+      "properties": {
+        "ele": "1760",
+        "mountain_pass": "yes",
+        "name": "Col de la Joux Verte",
+        "natural": "saddle",
+        "wikidata": "Q1107434",
+        "@id": "node/473766332",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9266967,
+          46.0645756
+        ]
+      },
+      "properties": {
+        "ele": "1920",
+        "lwn_name": "Col du Passet",
+        "mountain_pass": "yes",
+        "name": "Col du Passet",
+        "natural": "saddle",
+        "network": "lwn",
+        "network:type": "node_network",
+        "survey:date": "2025-08-24",
+        "@id": "node/475017120",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6782612,
+          46.0118703
+        ]
+      },
+      "properties": {
+        "ele": "1844",
+        "mountain_pass": "yes",
+        "name": "Col de Pierre Carrée",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+        "@id": "node/476722583",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3977405,
+          46.2477162
+        ]
+      },
+      "properties": {
+        "ele": "943",
+        "mountain_pass": "yes",
+        "name": "Col de Saxel",
+        "natural": "saddle",
+        "wikidata": "Q49131187",
+        "@id": "node/490027549",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4885488,
+          46.2457731
+        ]
+      },
+      "properties": {
+        "ele": "1094",
+        "mountain_pass": "yes",
+        "name": "Col de Terramont",
+        "natural": "saddle",
+        "wikidata": "Q2982126",
+        "wikimedia_commons": "Category:Col de Terramont",
+        "wikipedia": "fr:Col de Terramont",
+        "@id": "node/490070337",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5092952,
+          46.2944008
+        ]
+      },
+      "properties": {
+        "ele": "1120",
+        "mountain_pass": "yes",
+        "name": "Col du Feu",
+        "natural": "saddle",
+        "wikidata": "Q2982265",
+        "wikipedia": "fr:Col du Feu",
+        "@id": "node/490070809",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6190893,
+          46.3248941
+        ]
+      },
+      "properties": {
+        "ele": "1041",
+        "mountain_pass": "yes",
+        "name": "Col du Grand Taillet",
+        "natural": "saddle",
+        "@id": "node/491479249",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9950574,
+          45.9300744
+        ]
+      },
+      "properties": {
+        "ele": "3733",
+        "mountain_pass": "yes",
+        "name": "Col des Droites",
+        "natural": "saddle",
+        "wikidata": "Q130458977",
+        "@id": "node/503688525",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0106946,
+          45.9233532
+        ]
+      },
+      "properties": {
+        "ele": "3601",
+        "mountain_pass": "yes",
+        "name": "Col des Cristaux",
+        "natural": "saddle",
+        "@id": "node/503688531",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0367979,
+          45.9208768
+        ]
+      },
+      "properties": {
+        "ele": "3561",
+        "name": "Brèche de Pré de Bar",
+        "natural": "saddle",
+        "@id": "node/503688533",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9804345,
+          45.9324338
+        ]
+      },
+      "properties": {
+        "ele": "3796",
+        "mountain_pass": "yes",
+        "name": "Col de l'Aiguille Verte",
+        "natural": "saddle",
+        "@id": "node/503688740",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9752079,
+          45.9342741
+        ]
+      },
+      "properties": {
+        "ele": "3998",
+        "mountain_pass": "yes",
+        "name": "Col Armand Charlet",
+        "natural": "saddle",
+        "@id": "node/503688746",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9655154,
+          45.9270543
+        ]
+      },
+      "properties": {
+        "ele": "3497",
+        "mountain_pass": "yes",
+        "name": "Brèche Sud du Cardinal",
+        "natural": "saddle",
+        "@id": "node/503688751",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9618545,
+          45.8838988
+        ]
+      },
+      "properties": {
+        "ele": "3337",
+        "name": "Col du Tacul",
+        "natural": "saddle",
+        "@id": "node/503688824",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.798468,
+          46.3232302
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de Verne",
+        "ele": "1815",
+        "mountain_pass": "yes",
+        "name": "Col de Vernaz",
+        "natural": "saddle",
+        "wikidata": "Q22519910",
+        "@id": "node/568255909",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.449187,
+          46.0195082
+        ]
+      },
+      "properties": {
+        "ele": "1724",
+        "mountain_pass": "yes",
+        "name": "Col de Cenise",
+        "natural": "saddle",
+        "wikidata": "Q106754770",
+        "wikipedia": "fr:Col de Cenise",
+        "@id": "node/632732632",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0666515,
+          45.9968359
+        ]
+      },
+      "properties": {
+        "ele": "714",
+        "mountain_pass": "yes",
+        "name": "Col des Menulles",
+        "natural": "saddle",
+        "@id": "node/633430145",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.350696,
+          46.1823064
+        ]
+      },
+      "properties": {
+        "ele": "1136",
+        "mountain_pass": "yes",
+        "name": "Pas de Lachat",
+        "natural": "saddle",
+        "@id": "node/646956613",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7564939,
+          46.3813399
+        ]
+      },
+      "properties": {
+        "ele": "1426",
+        "fixme": "présence d'un poteau ?",
+        "lwn_name": "Col de Corniens",
+        "name": "Col de Corniens",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/692094157",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1785395,
+          45.7969513
+        ]
+      },
+      "properties": {
+        "name": "Col de la Cochette",
+        "natural": "saddle",
+        "@id": "node/726802204",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8274157,
+          46.3089066
+        ]
+      },
+      "properties": {
+        "ele": "1789",
+        "name": "Col de Conche / Col de Braitaz",
+        "name:fr-CH": "Col de Conche",
+        "name:fr-FR": "Col de Braitaz",
+        "natural": "saddle",
+        "@id": "node/766684434",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.268482,
+          45.840459
+        ]
+      },
+      "properties": {
+        "ele": "1426",
+        "mountain_pass": "yes",
+        "name": "Col des Nantets",
+        "natural": "saddle",
+        "wikidata": "Q106689659",
+        "wikipedia": "fr:Col des Nantets",
+        "@id": "node/769266168",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5549256,
+          45.9516369
+        ]
+      },
+      "properties": {
+        "ele": "2499",
+        "mountain_pass": "yes",
+        "name": "Col des Verts",
+        "natural": "saddle",
+        "@id": "node/794867719",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5659373,
+          45.9540187
+        ]
+      },
+      "properties": {
+        "alt_name": "Col des Arêtes Noires",
+        "ele": "2178",
+        "name": "Col de Doran",
+        "natural": "saddle",
+        "@id": "node/794867837",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.542569,
+          45.926698
+        ]
+      },
+      "properties": {
+        "ele": "2128",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col de Portette",
+        "mountain_pass": "yes",
+        "name": "Col de Portette",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/796763761",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8546215,
+          45.9554001
+        ]
+      },
+      "properties": {
+        "ele": "2414",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col Cornu",
+        "mountain_pass": "yes",
+        "name": "Col Cornu",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/800899410",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4701776,
+          45.9539665
+        ]
+      },
+      "properties": {
+        "ele": "1690",
+        "mountain_pass": "yes",
+        "name": "Col de Châtillon",
+        "natural": "saddle",
+        "@id": "node/804406160",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8676772,
+          45.8298267
+        ]
+      },
+      "properties": {
+        "ele": "4731",
+        "name": "Col Major",
+        "natural": "saddle",
+        "note": "key col of Monte Bianco di Courmayeur",
+        "wikidata": "Q88959596",
+        "@id": "node/808544012",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8567813,
+          45.9605104
+        ]
+      },
+      "properties": {
+        "ele": "2461",
+        "expected_lwn_route_relations": "3",
+        "lwn_name": "Col de la Glière",
+        "mountain_pass": "yes",
+        "name": "Col de la Glière",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q123596380",
+        "@id": "node/815242077",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2809627,
+          45.8315171
+        ]
+      },
+      "properties": {
+        "name": "Col du Varo",
+        "natural": "saddle",
+        "@id": "node/817353042",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7781863,
+          46.0164629
+        ]
+      },
+      "properties": {
+        "ele": "1816",
+        "lwn_name": "Collet d'Anterne",
+        "mountain_pass": "yes",
+        "name": "Collet d'Anterne",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "@id": "node/849420120",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7964636,
+          45.9802255
+        ]
+      },
+      "properties": {
+        "ele": "2257",
+        "mountain_pass": "yes",
+        "name": "Col d'Anterne",
+        "natural": "saddle",
+        "wikidata": "Q2981974",
+        "wikipedia": "fr:Col d'Anterne",
+        "@id": "node/849420551",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7822325,
+          45.8053437
+        ]
+      },
+      "properties": {
+        "ele": "3348",
+        "mountain_pass": "yes",
+        "name": "Col de la Bérangère",
+        "natural": "saddle",
+        "@id": "node/857445664",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2645525,
+          45.8295672
+        ]
+      },
+      "properties": {
+        "ele": "1424",
+        "mountain_pass": "yes",
+        "name": "Col de l'Aulp",
+        "natural": "saddle",
+        "source": "survey",
+        "wikidata": "Q106689433",
+        "wikipedia": "fr:Col de l'Aulp",
+        "@id": "node/895753819",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7289082,
+          45.9695388
+        ]
+      },
+      "properties": {
+        "ele": "2354",
+        "lwn_name": "Col de la Portette",
+        "mountain_pass": "yes",
+        "name": "Col de la Portette",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "@id": "node/918675747",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.515269,
+          45.960374
+        ]
+      },
+      "properties": {
+        "ele": "1680",
+        "lwn_name": "Col de Borne ronde",
+        "mountain_pass": "yes",
+        "name": "Col de Borne ronde",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/938418450",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3496691,
+          46.0157904
+        ]
+      },
+      "properties": {
+        "ele": "1600",
+        "lwn_name": "Col de Sur Cou",
+        "mountain_pass": "yes",
+        "name": "Col de Sur Cou",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/940833788",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3422537,
+          45.9458257
+        ]
+      },
+      "properties": {
+        "ele": "1786",
+        "mountain_pass": "yes",
+        "name": "Col de l'Ovine",
+        "natural": "saddle",
+        "@id": "node/941299633",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4846903,
+          46.2745768
+        ]
+      },
+      "properties": {
+        "ele": "1429",
+        "mountain_pass": "yes",
+        "name": "Col de l'Encrenaz",
+        "natural": "saddle",
+        "@id": "node/1207259803",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9177397,
+          45.9007755
+        ]
+      },
+      "properties": {
+        "ele": "3310",
+        "mountain_pass": "yes",
+        "name": "Col des Nantillons",
+        "natural": "saddle",
+        "@id": "node/1241260531",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3500808,
+          46.1927084
+        ]
+      },
+      "properties": {
+        "ele": "1292",
+        "mountain_pass": "yes",
+        "name": "Col du Pralère",
+        "natural": "saddle",
+        "@id": "node/1249987016",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7971802,
+          46.3187959
+        ]
+      },
+      "properties": {
+        "ele": "1781",
+        "mountain_pass": "yes",
+        "name": "Col de Resse",
+        "natural": "saddle",
+        "@id": "node/1265771337",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4100351,
+          46.0997054
+        ]
+      },
+      "properties": {
+        "ele": "940",
+        "mountain_pass": "yes",
+        "name": "Col du Reray",
+        "natural": "saddle",
+        "@id": "node/1268246911",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3990282,
+          46.1759311
+        ]
+      },
+      "properties": {
+        "ele": "938",
+        "mountain_pass": "yes",
+        "name": "Col de Ludran",
+        "natural": "saddle",
+        "@id": "node/1268630582",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5875704,
+          46.1789315
+        ]
+      },
+      "properties": {
+        "ele": "1896",
+        "mountain_pass": "yes",
+        "name": "Col de Chalune",
+        "natural": "saddle",
+        "@id": "node/1269182541",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5899134,
+          46.1810605
+        ]
+      },
+      "properties": {
+        "ele": "1832",
+        "mountain_pass": "yes",
+        "name": "Col de Foron",
+        "natural": "saddle",
+        "wikidata": "Q2982051",
+        "@id": "node/1269182607",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5750224,
+          46.1758509
+        ]
+      },
+      "properties": {
+        "ele": "1802",
+        "lwn_name": "Col de Vésinaz",
+        "mountain_pass": "yes",
+        "name": "Col de Vésinaz",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "wikidata": "Q2982140",
+        "wikimedia_commons": "Category:Col de Vésinaz",
+        "wikipedia": "fr:Col de Vésinaz",
+        "@id": "node/1269198986",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7884618,
+          46.3322231
+        ]
+      },
+      "properties": {
+        "ele": "2250",
+        "mountain_pass": "yes",
+        "name": "Pas de Chaudin",
+        "natural": "saddle",
+        "@id": "node/1286305363",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5570502,
+          46.177059
+        ]
+      },
+      "properties": {
+        "ele": "1757",
+        "lwn_name": "Col de Chavan",
+        "name": "Col de Chavan",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "@id": "node/1328833339",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.239641,
+          45.6852643
+        ]
+      },
+      "properties": {
+        "ele": "1745",
+        "lwn_name": "Col d'Orgeval",
+        "mountain_pass": "yes",
+        "name": "Col d'Orgeval",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260790",
+        "@id": "node/1345730644",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2445753,
+          45.9565683
+        ]
+      },
+      "properties": {
+        "ele": "1584",
+        "mountain_pass": "yes",
+        "name": "Le Petit Montoir",
+        "natural": "saddle",
+        "@id": "node/1347943515",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2504804,
+          45.9289707
+        ]
+      },
+      "properties": {
+        "ele": "1566",
+        "mountain_pass": "yes",
+        "name": "Col du Pertuis",
+        "natural": "saddle",
+        "@id": "node/1347943736",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8074913,
+          46.2089942
+        ]
+      },
+      "properties": {
+        "name": "Pas de la Chaux des Rosées",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/1373140460",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8215223,
+          46.3129563
+        ]
+      },
+      "properties": {
+        "ele": "1856",
+        "mountain_pass": "yes",
+        "name": "Col d'Outanne",
+        "natural": "saddle",
+        "@id": "node/1373167142",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4676542,
+          46.2775554
+        ]
+      },
+      "properties": {
+        "ele": "1121",
+        "mountain_pass": "yes",
+        "name": "Col des Moises",
+        "natural": "saddle",
+        "wikidata": "Q2982228",
+        "wikipedia": "fr:Col des Moises",
+        "@id": "node/1379047535",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6964825,
+          46.2379015
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de Savolaire",
+        "ele": "1930",
+        "mountain_pass": "yes",
+        "name": "Passage de Savolaire",
+        "natural": "saddle",
+        "@id": "node/1398517476",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7112403,
+          46.232452
+        ]
+      },
+      "properties": {
+        "ele": "1997",
+        "mountain_pass": "yes",
+        "name": "Col de Tavaneuse",
+        "natural": "saddle",
+        "@id": "node/1398517484",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8102989,
+          46.1247686
+        ]
+      },
+      "properties": {
+        "ele": "2475",
+        "name": "Col de Pointe Droite",
+        "natural": "saddle",
+        "@id": "node/1407544799",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0852457,
+          46.0744697
+        ]
+      },
+      "properties": {
+        "ele": "786",
+        "mountain_pass": "yes",
+        "name": "Col du Mont Sion",
+        "natural": "saddle",
+        "@id": "node/1408013049",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2559842,
+          46.0449433
+        ]
+      },
+      "properties": {
+        "ele": "810",
+        "mountain_pass": "yes",
+        "name": "Col d’Évires",
+        "natural": "saddle",
+        "wikidata": "Q106600905",
+        "wikipedia": "fr:Col d'Évires",
+        "@id": "node/1408016576",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6407716,
+          46.3141164
+        ]
+      },
+      "properties": {
+        "ele": "1540",
+        "name": "Col de la Crottaz",
+        "natural": "saddle",
+        "@id": "node/1414624649",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.645528,
+          46.309473
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de Poisat",
+        "ele": "1436",
+        "mountain_pass": "yes",
+        "name": "Col de Nicodex",
+        "natural": "saddle",
+        "@id": "node/1414624715",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6484302,
+          46.2970014
+        ]
+      },
+      "properties": {
+        "ele": "1622",
+        "mountain_pass": "yes",
+        "name": "Col de Planchamp",
+        "natural": "saddle",
+        "@id": "node/1416312020",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.620797,
+          46.1889654
+        ]
+      },
+      "properties": {
+        "ele": "1905",
+        "mountain_pass": "yes",
+        "name": "Col Ratti",
+        "natural": "saddle",
+        "@id": "node/1421726527",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5101799,
+          46.0219481
+        ]
+      },
+      "properties": {
+        "ele": "1984",
+        "mountain_pass": "yes",
+        "name": "Col d'Encrenaz",
+        "natural": "saddle",
+        "@id": "node/1425448359",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8737353,
+          45.8487915
+        ]
+      },
+      "properties": {
+        "direction": "60",
+        "ele": "4354",
+        "name": "Col du Mont Maudit",
+        "natural": "saddle",
+        "@id": "node/1437671438",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6967548,
+          46.2448211
+        ]
+      },
+      "properties": {
+        "ele": "1837",
+        "mountain_pass": "yes",
+        "name": "Col de Damoz des Moulins",
+        "natural": "saddle",
+        "@id": "node/1455281393",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.823897,
+          45.9232245
+        ]
+      },
+      "properties": {
+        "ele": "2130",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col de Bellachat",
+        "name": "Col de Bellachat",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q124513901",
+        "@id": "node/1562291543",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14596,
+          45.9651219
+        ]
+      },
+      "properties": {
+        "ele": "670",
+        "mountain_pass": "yes",
+        "name": "Col de la Frétallaz",
+        "natural": "saddle",
+        "@id": "node/1717373514",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0117059,
+          45.9885724
+        ]
+      },
+      "properties": {
+        "ele": "3288",
+        "mountain_pass": "yes",
+        "name": "Col Supérieur du Tour",
+        "natural": "saddle",
+        "@id": "node/1725337096",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0087865,
+          45.9983666
+        ]
+      },
+      "properties": {
+        "ele": "3235",
+        "mountain_pass": "yes",
+        "name": "Col du Midi des Grands",
+        "natural": "saddle",
+        "@id": "node/1725337191",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7500638,
+          45.9052791
+        ]
+      },
+      "properties": {
+        "ele": "1533",
+        "expected_lwn_route_relations": "4",
+        "lwn_name": "Col de la Forclaz",
+        "mountain_pass": "yes",
+        "name": "Col de la Forclaz",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/1777386331",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8774922,
+          45.8471892
+        ]
+      },
+      "properties": {
+        "ele": "979",
+        "lwn_name": "Col du Clergeon",
+        "mountain_pass": "yes",
+        "name": "Col du Clergeon",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260792",
+        "@id": "node/1782048037",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3548744,
+          46.0079292
+        ]
+      },
+      "properties": {
+        "ele": "1694",
+        "mountain_pass": "yes",
+        "name": "Col du Freu",
+        "natural": "saddle",
+        "@id": "node/1801603988",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3469737,
+          46.0058645
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Col du Câble",
+        "natural": "saddle",
+        "@id": "node/1801982146",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3580465,
+          46.0252121
+        ]
+      },
+      "properties": {
+        "ele": "1535",
+        "name": "Col des Chasseurs",
+        "natural": "saddle",
+        "@id": "node/1801994720",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6888633,
+          46.3433958
+        ]
+      },
+      "properties": {
+        "ele": "1432",
+        "lwn_name": "Col des Bœufs",
+        "mountain_pass": "yes",
+        "name": "Col des Bœufs",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/1803769161",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8273778,
+          46.2885672
+        ]
+      },
+      "properties": {
+        "ele": "1539",
+        "mountain_pass": "yes",
+        "name": "Col du Saix",
+        "natural": "saddle",
+        "@id": "node/1806364029",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7386384,
+          46.3639355
+        ]
+      },
+      "properties": {
+        "ele": "1775",
+        "mountain_pass": "yes",
+        "name": "Col de Neuva",
+        "natural": "saddle",
+        "@id": "node/1806377075",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.723684,
+          46.3515712
+        ]
+      },
+      "properties": {
+        "ele": "1925",
+        "mountain_pass": "yes",
+        "name": "Col de Rebollion",
+        "natural": "saddle",
+        "@id": "node/1806384464",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3613555,
+          45.9992973
+        ]
+      },
+      "properties": {
+        "ele": "1688",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col de Spée",
+        "mountain_pass": "yes",
+        "name": "Col de Spée",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q2987191",
+        "@id": "node/1846599400",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5169093,
+          45.9183242
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Passage du Père",
+        "natural": "saddle",
+        "@id": "node/1854110537",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5125929,
+          45.9158613
+        ]
+      },
+      "properties": {
+        "ele": "2467",
+        "mountain_pass": "yes",
+        "name": "Trou de la Mouche",
+        "natural": "saddle",
+        "tourism": "attraction",
+        "@id": "node/1854110564",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6159832,
+          46.1943079
+        ]
+      },
+      "properties": {
+        "ele": "1992",
+        "mountain_pass": "yes",
+        "name": "La Golette",
+        "natural": "saddle",
+        "@id": "node/1859230744",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7805881,
+          46.3761556
+        ]
+      },
+      "properties": {
+        "ele": "1450",
+        "mountain_pass": "yes",
+        "name": "Col de Blanchard",
+        "natural": "saddle",
+        "@id": "node/1860387861",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7048169,
+          46.3708207
+        ]
+      },
+      "properties": {
+        "ele": "1512",
+        "lwn_name": "Col de Pertuis",
+        "mountain_pass": "yes",
+        "name": "Col de Pertuis",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/1860393101",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.727863,
+          46.2992507
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de la Plagne",
+        "ele": "1546",
+        "lwn_name": "Col de la Plagne",
+        "mountain_pass": "yes",
+        "name": "Col de la Plagne du Mont",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/1860407291",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9109871,
+          46.084335
+        ]
+      },
+      "properties": {
+        "ele": "860",
+        "mountain_pass": "yes",
+        "name": "Golet du Pey",
+        "natural": "saddle",
+        "@id": "node/1867486685",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5439072,
+          45.9119621
+        ]
+      },
+      "properties": {
+        "ele": "1801",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col de Niard",
+        "mountain_pass": "yes",
+        "name": "Col de Niard",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "survey:date": "2025-08-29",
+        "@id": "node/1879248786",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6830763,
+          46.2663272
+        ]
+      },
+      "properties": {
+        "ele": "1534",
+        "mountain_pass": "yes",
+        "name": "Col de l'Écuelle",
+        "natural": "saddle",
+        "@id": "node/1906840204",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6452279,
+          46.2841387
+        ]
+      },
+      "properties": {
+        "ele": "1237",
+        "mountain_pass": "yes",
+        "name": "Col du Corbier",
+        "natural": "saddle",
+        "wikidata": "Q2982256",
+        "wikimedia_commons": "Category:Col du Corbier",
+        "wikipedia": "fr:Col du Corbier",
+        "@id": "node/1906893593",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6879893,
+          45.9575882
+        ]
+      },
+      "properties": {
+        "ele": "2325",
+        "mountain_pass": "yes",
+        "name": "Col de Barmerousse",
+        "@id": "node/1948214369",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7505669,
+          45.9674289
+        ]
+      },
+      "properties": {
+        "ele": "2220",
+        "mountain_pass": "yes",
+        "name": "Passage du Dérochoir",
+        "natural": "saddle",
+        "@id": "node/1948313819",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9144348,
+          45.8412846
+        ]
+      },
+      "properties": {
+        "ele": "3517",
+        "name": "Col d'Entrèves / Colle d'Entrèves",
+        "name:fr": "Col d'Entrèves",
+        "name:it": "Colle d'Entrèves",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q130717055",
+        "@id": "node/1972123969",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3415588,
+          45.9316508
+        ]
+      },
+      "properties": {
+        "ele": "1500",
+        "mountain_pass": "yes",
+        "name": "Col de la Buffaz",
+        "natural": "saddle",
+        "@id": "node/1979783772",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3489721,
+          45.7793114
+        ]
+      },
+      "properties": {
+        "ele": "947",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col de l'Épine",
+        "mountain_pass": "yes",
+        "name": "Col de l'Épine",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q8559767",
+        "@id": "node/2003080891",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7613974,
+          45.8768605
+        ]
+      },
+      "properties": {
+        "ele": "1650",
+        "lwn_name": "Col de Voza (Gare TMB)",
+        "mountain_pass": "yes",
+        "name": "Col de Voza",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/2019633861",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6892359,
+          45.7634275
+        ]
+      },
+      "properties": {
+        "ele": "2245",
+        "lwn_name": "Col de la Fenêtre",
+        "mountain_pass": "yes",
+        "name": "Col de la Fenêtre",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260752;Q137260824",
+        "wikidata": "Q118162157",
+        "@id": "node/2032921335",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8831053,
+          45.8531953
+        ]
+      },
+      "properties": {
+        "direction": "110",
+        "ele": "4029",
+        "name": "Col Maudit",
+        "natural": "saddle",
+        "@id": "node/2037237734",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6966129,
+          46.0143679
+        ]
+      },
+      "properties": {
+        "name": "Col de Véret",
+        "natural": "saddle",
+        "@id": "node/2038194258",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7297166,
+          46.0021697
+        ]
+      },
+      "properties": {
+        "ele": "2227",
+        "mountain_pass": "yes",
+        "name": "Col Pelouse",
+        "natural": "saddle",
+        "@id": "node/2039580493",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.201396,
+          45.7329673
+        ]
+      },
+      "properties": {
+        "ele": "1700",
+        "mountain_pass": "yes",
+        "name": "Les Platières",
+        "natural": "saddle",
+        "@id": "node/2085226220",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8941822,
+          45.8540844
+        ]
+      },
+      "properties": {
+        "ele": "3955",
+        "name": "Col du Diable",
+        "natural": "saddle",
+        "@id": "node/2151026954",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7066048,
+          45.735009
+        ]
+      },
+      "properties": {
+        "ele": "2329",
+        "lwn_name": "Col du Bonhomme",
+        "mountain_pass": "yes",
+        "name": "Col du Bonhomme",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260824",
+        "wikidata": "Q961339",
+        "wikipedia": "fr:Col du Bonhomme (massif du Mont-Blanc)",
+        "@id": "node/2272032672",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7264498,
+          46.1987507
+        ]
+      },
+      "properties": {
+        "ele": "1637",
+        "name": "Col de la Croix des Combes",
+        "natural": "saddle",
+        "@id": "node/2298913009",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.530569,
+          45.9242146
+        ]
+      },
+      "properties": {
+        "ele": "2440",
+        "name": "Passage de l'Ambrevetta",
+        "natural": "saddle",
+        "@id": "node/2392656585",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7699528,
+          45.8504313
+        ]
+      },
+      "properties": {
+        "ele": "2120",
+        "lwn_name": "Col de Tricot",
+        "mountain_pass": "yes",
+        "name": "Col de Tricot",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "tourism": "viewpoint",
+        "wikidata": "Q113433589",
+        "wikimedia_commons": "Category:Col de Tricot",
+        "@id": "node/2395038902",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7398823,
+          46.3509702
+        ]
+      },
+      "properties": {
+        "ele": "1996",
+        "mountain_pass": "yes",
+        "name": "Col de Planchamp",
+        "natural": "saddle",
+        "@id": "node/2400069348",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2938576,
+          45.8390862
+        ]
+      },
+      "properties": {
+        "ele": "1753",
+        "mountain_pass": "yes",
+        "name": "Col des Frêtes du Rosary",
+        "natural": "saddle",
+        "@id": "node/2400331468",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6299473,
+          46.2841257
+        ]
+      },
+      "properties": {
+        "ele": "1070",
+        "mountain_pass": "yes",
+        "name": "Le Pas de l'Ours",
+        "natural": "saddle",
+        "@id": "node/2407008294",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5807497,
+          46.2774866
+        ]
+      },
+      "properties": {
+        "ele": "1618",
+        "mountain_pass": "yes",
+        "name": "Col de la Buchille",
+        "natural": "saddle",
+        "@id": "node/2420029345",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.534537,
+          45.925149
+        ]
+      },
+      "properties": {
+        "ele": "2311",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Passage de la Grande Forclaz",
+        "mountain_pass": "yes",
+        "name": "Passage de la Grande Forclaz",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q107185812",
+        "wikimedia_commons": "Category:Passage de la Grande Forclaz",
+        "wikipedia": "fr:Passage de la Grande Forclaz",
+        "@id": "node/2425435182",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5747216,
+          46.2466269
+        ]
+      },
+      "properties": {
+        "ele": "1445",
+        "mountain_pass": "yes",
+        "name": "Col de la Balme",
+        "natural": "saddle",
+        "@id": "node/2433883814",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.574852,
+          46.2376563
+        ]
+      },
+      "properties": {
+        "ele": "1540",
+        "mountain_pass": "yes",
+        "name": "Col de la Lanche",
+        "natural": "saddle",
+        "@id": "node/2433956608",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5485538,
+          46.1784774
+        ]
+      },
+      "properties": {
+        "ele": "1815",
+        "name": "Col de Chavannais",
+        "natural": "saddle",
+        "@id": "node/2435242782",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5662533,
+          46.2340354
+        ]
+      },
+      "properties": {
+        "ele": "1548",
+        "mountain_pass": "yes",
+        "name": "Col de Vallonnet",
+        "natural": "saddle",
+        "@id": "node/2440603559",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.875554,
+          46.0481487
+        ]
+      },
+      "properties": {
+        "ele": "2572",
+        "mountain_pass": "yes",
+        "name": "Col du Vieux",
+        "natural": "saddle",
+        "@id": "node/2441198124",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8435255,
+          45.9413485
+        ]
+      },
+      "properties": {
+        "ele": "2368",
+        "expected_lwn_route_relations": "3",
+        "lwn_name": "Col du Brévent",
+        "mountain_pass": "yes",
+        "name": "Col du Brévent",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q10345965",
+        "wikipedia": "fr:Col du Brévent",
+        "@id": "node/2462041947",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6616926,
+          46.0012453
+        ]
+      },
+      "properties": {
+        "ele": "1501",
+        "expected_lwn_route_relations": "3",
+        "lwn_name": "Col du Cou",
+        "mountain_pass": "yes",
+        "name": "Col du Cou",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/2471329930",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.961269,
+          45.9501431
+        ]
+      },
+      "properties": {
+        "ele": "3037",
+        "mountain_pass": "yes",
+        "name": "Col des Rachasses",
+        "natural": "saddle",
+        "@id": "node/2516162261",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6553157,
+          46.2740819
+        ]
+      },
+      "properties": {
+        "ele": "1493",
+        "mountain_pass": "yes",
+        "name": "Col de Droline",
+        "natural": "saddle",
+        "@id": "node/2521543634",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7148063,
+          45.9788584
+        ]
+      },
+      "properties": {
+        "ele": "2321",
+        "expected_lwn_route_relations": "4",
+        "lwn_name": "Col du Colonney",
+        "mountain_pass": "yes",
+        "name": "Col du Colonney",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/2569810894",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4168648,
+          45.862767
+        ]
+      },
+      "properties": {
+        "ele": "1500",
+        "mountain_pass": "yes",
+        "name": "Col de Merdassier",
+        "natural": "saddle",
+        "wikidata": "Q106410513",
+        "wikipedia": "fr:Col de Merdassier",
+        "@id": "node/2578468048",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3697511,
+          45.823915
+        ]
+      },
+      "properties": {
+        "ele": "1745",
+        "mountain_pass": "yes",
+        "name": "Col de Sulens",
+        "natural": "saddle",
+        "@id": "node/2661365357",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6690798,
+          46.1603838
+        ]
+      },
+      "properties": {
+        "ele": "1172",
+        "mountain_pass": "yes",
+        "name": "Col des Gets",
+        "natural": "saddle",
+        "wikidata": "Q2982216",
+        "wikipedia": "fr:Col des Gets",
+        "@id": "node/2664729199",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3057839,
+          45.9889992
+        ]
+      },
+      "properties": {
+        "ele": "1583",
+        "mountain_pass": "yes",
+        "name": "Col de Landron",
+        "natural": "saddle",
+        "@id": "node/2737456532",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7151061,
+          46.3710492
+        ]
+      },
+      "properties": {
+        "ele": "1660",
+        "fixme": "nom du carrefour à vérifier",
+        "lwn_name": "Crête du Grand Mottay",
+        "mountain_pass": "yes",
+        "name": "Col du Grand Mottay",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/2784047141",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2227553,
+          45.9411183
+        ]
+      },
+      "properties": {
+        "ele": "1127",
+        "mountain_pass": "yes",
+        "name": "Col de Barman",
+        "natural": "saddle",
+        "@id": "node/2800814722",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6336698,
+          46.1727066
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de l'Ancrenaz",
+        "ele": "1433",
+        "mountain_pass": "yes",
+        "name": "Col de l'Encrenaz",
+        "natural": "saddle",
+        "wikidata": "Q24935313",
+        "wikipedia": "fr:Col de l'Encrenaz",
+        "@id": "node/2909010833",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.923633,
+          46.0039137
+        ]
+      },
+      "properties": {
+        "ele": "1461",
+        "mountain_pass": "yes",
+        "name": "Col des Montets",
+        "natural": "saddle",
+        "wikidata": "Q948024",
+        "@id": "node/2938529479",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9617247,
+          45.923121
+        ]
+      },
+      "properties": {
+        "ele": "3286",
+        "name": "Brèche Nonne-Évêque",
+        "natural": "saddle",
+        "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+        "sport": "climbing",
+        "@id": "node/2940263655",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8315828,
+          46.2352654
+        ]
+      },
+      "properties": {
+        "ele": "1825",
+        "name": "Col de Fécon",
+        "natural": "saddle",
+        "@id": "node/2994769835",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7234852,
+          46.2368499
+        ]
+      },
+      "properties": {
+        "ele": "1920",
+        "mountain_pass": "yes",
+        "name": "Col d'Entre Deux Pertuis",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/3040705360",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7523018,
+          46.1296479
+        ]
+      },
+      "properties": {
+        "ele": "1770",
+        "name": "Col des Cramots",
+        "natural": "saddle",
+        "@id": "node/3048896727",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8340184,
+          46.1323325
+        ]
+      },
+      "properties": {
+        "ele": "2602",
+        "mountain_pass": "yes",
+        "name": "Fenêtre des Dents Blanches",
+        "natural": "saddle",
+        "@id": "node/3051044137",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8251299,
+          46.1317297
+        ]
+      },
+      "properties": {
+        "ele": "2633",
+        "mountain_pass": "yes",
+        "name": "Col du Trou",
+        "natural": "saddle",
+        "@id": "node/3051049711",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7110527,
+          46.1326257
+        ]
+      },
+      "properties": {
+        "ele": "1712",
+        "lwn_name": "Col de Joux Plane",
+        "name": "Col de Joux Plane",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "wikidata": "Q1107373",
+        "wikipedia": "fr:Col de Joux Plane",
+        "@id": "node/3080367297",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6957154,
+          46.1392928
+        ]
+      },
+      "properties": {
+        "ele": "1656",
+        "mountain_pass": "yes",
+        "name": "Col du Ranfolly",
+        "natural": "saddle",
+        "@id": "node/3081801806",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7385472,
+          46.1322151
+        ]
+      },
+      "properties": {
+        "ele": "1751",
+        "name": "Col d'Angolon",
+        "natural": "saddle",
+        "@id": "node/3089320528",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8743935,
+          45.9662086
+        ]
+      },
+      "properties": {
+        "ele": "2320",
+        "name": "Col du Fouet",
+        "natural": "saddle",
+        "@id": "node/3103929029",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8588698,
+          46.0414993
+        ]
+      },
+      "properties": {
+        "ele": "2691",
+        "name": "Col du Génévrier",
+        "natural": "saddle",
+        "@id": "node/3114403934",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0116443,
+          45.9662003
+        ]
+      },
+      "properties": {
+        "direction": "70",
+        "ele": "3321",
+        "mountain_pass": "yes",
+        "name": "Col du Chardonnet",
+        "natural": "saddle",
+        "place": "locality",
+        "rtsa_scale": "2А",
+        "westra_ref": "11616",
+        "wikidata": "Q1107473",
+        "@id": "node/3174627435",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9834825,
+          45.9762205
+        ]
+      },
+      "properties": {
+        "ele": "3020",
+        "mountain_pass": "yes",
+        "name": "Col du Passon",
+        "natural": "saddle",
+        "@id": "node/3202776442",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8053196,
+          45.8620731
+        ]
+      },
+      "properties": {
+        "direction": "160",
+        "ele": "2685",
+        "name": "Col des Rognes",
+        "natural": "saddle",
+        "wikidata": "Q131933132",
+        "@id": "node/3208057361",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7537579,
+          46.1679492
+        ]
+      },
+      "properties": {
+        "ele": "2041",
+        "mountain_pass": "yes",
+        "name": "Col du Pic à Talon",
+        "natural": "saddle",
+        "@id": "node/3265780719",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7636888,
+          46.1666802
+        ]
+      },
+      "properties": {
+        "ele": "2220",
+        "mountain_pass": "yes",
+        "name": "Col des Chalettes",
+        "natural": "saddle",
+        "@id": "node/3265800640",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7702268,
+          46.1668768
+        ]
+      },
+      "properties": {
+        "ele": "2359",
+        "mountain_pass": "yes",
+        "name": "Col de l'Encarnette",
+        "natural": "saddle",
+        "@id": "node/3265802477",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7903731,
+          46.1648943
+        ]
+      },
+      "properties": {
+        "ele": "2219",
+        "mountain_pass": "yes",
+        "name": "Col du Fornet",
+        "natural": "saddle",
+        "@id": "node/3292304319",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2875539,
+          46.0252033
+        ]
+      },
+      "properties": {
+        "ele": "930",
+        "mountain_pass": "yes",
+        "name": "Col des Fleuries",
+        "natural": "saddle",
+        "wikipedia": "fr:Col des Fleuries",
+        "@id": "node/3298609613",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7526977,
+          46.2296888
+        ]
+      },
+      "properties": {
+        "ele": "1812",
+        "mountain_pass": "yes",
+        "name": "Col de l'Aup Couti",
+        "natural": "saddle",
+        "@id": "node/3360266890",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6123163,
+          46.1975771
+        ]
+      },
+      "properties": {
+        "ele": "1787",
+        "mountain_pass": "yes",
+        "name": "Col de Graydon",
+        "natural": "saddle",
+        "@id": "node/3370051288",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5989165,
+          46.2111041
+        ]
+      },
+      "properties": {
+        "ele": "1652",
+        "mountain_pass": "yes",
+        "name": "Col des Follys",
+        "natural": "saddle",
+        "@id": "node/3373199155",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5754907,
+          46.1916284
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Col du Jorat",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/3384577044",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5457388,
+          46.1958891
+        ]
+      },
+      "properties": {
+        "ele": "1602",
+        "mountain_pass": "yes",
+        "name": "Col des Bétets",
+        "natural": "saddle",
+        "@id": "node/3386333602",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5755224,
+          46.2213884
+        ]
+      },
+      "properties": {
+        "ele": "1598",
+        "mountain_pass": "yes",
+        "name": "Col des Chavannes",
+        "natural": "saddle",
+        "@id": "node/3390934106",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7962752,
+          45.8148908
+        ]
+      },
+      "properties": {
+        "direction": "130",
+        "ele": "3564",
+        "name": "Col des Dômes",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "@id": "node/3413014808",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5759176,
+          46.2539776
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de Setrouset",
+        "ele": "1564",
+        "mountain_pass": "yes",
+        "name": "Col de Seytrouset",
+        "natural": "saddle",
+        "@id": "node/3420281098",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5924833,
+          46.2913148
+        ]
+      },
+      "properties": {
+        "ele": "1591",
+        "name": "Col de l'Encrenaz",
+        "natural": "saddle",
+        "@id": "node/3423121615",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3036289,
+          45.8242957
+        ]
+      },
+      "properties": {
+        "ele": "1740",
+        "mountain_pass": "yes",
+        "name": "Col des Vorets",
+        "natural": "saddle",
+        "@id": "node/3543505691",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7073431,
+          46.0265738
+        ]
+      },
+      "properties": {
+        "ele": "1967",
+        "name": "Col de Vernant",
+        "natural": "saddle",
+        "source:ele": "Panneau sur place",
+        "@id": "node/3668745717",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5487444,
+          46.1821166
+        ]
+      },
+      "properties": {
+        "name": "Col des Follys",
+        "natural": "saddle",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "@id": "node/3670462834",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6287775,
+          46.3141445
+        ]
+      },
+      "properties": {
+        "ele": "1241",
+        "mountain_pass": "yes",
+        "name": "Col de Tréchauffé",
+        "natural": "saddle",
+        "@id": "node/3677785833",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6325759,
+          46.3192366
+        ]
+      },
+      "properties": {
+        "ele": "1400",
+        "lwn_name": "Col de l'Aiguille",
+        "mountain_pass": "yes",
+        "name": "Col de l'Aiguille",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/3682534429",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9457616,
+          45.8529931
+        ]
+      },
+      "properties": {
+        "ele": "3387",
+        "name": "Col de Rochefort",
+        "natural": "saddle",
+        "wikidata": "Q124833669",
+        "@id": "node/3710441819",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8470389,
+          45.841122
+        ]
+      },
+      "properties": {
+        "direction": "NE",
+        "ele": "4250",
+        "name": "Col du Dôme",
+        "natural": "saddle",
+        "wikidata": "Q113486871",
+        "@id": "node/3789392855",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2961008,
+          45.9972976
+        ]
+      },
+      "properties": {
+        "ele": "1495",
+        "mountain_pass": "yes",
+        "name": "Col de l'Enclave",
+        "natural": "saddle",
+        "@id": "node/3790594200",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7959346,
+          45.8681134
+        ]
+      },
+      "properties": {
+        "ele": "2077",
+        "lwn_name": "Col du Mont Lachat",
+        "mountain_pass": "yes",
+        "name": "Col du Mont Lachat",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "wikidata": "Q113481749",
+        "wikimedia_commons": "Category:Col du mont Lachat",
+        "wikipedia": "fr:Col du Mont-Lachat",
+        "@id": "node/3792669471",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7845547,
+          46.2639172
+        ]
+      },
+      "properties": {
+        "ele": "2159",
+        "name": "Col de la Corne",
+        "natural": "saddle",
+        "@id": "node/3801877428",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.817941,
+          46.2291803
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Pas de Vouerca",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/3815471502",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81695,
+          46.3125767
+        ]
+      },
+      "properties": {
+        "alt_name": "Col de Roseires",
+        "ele": "1891",
+        "mountain_pass": "yes",
+        "name": "Col de Sevan",
+        "natural": "saddle",
+        "@id": "node/3866885183",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.801892,
+          46.3165091
+        ]
+      },
+      "properties": {
+        "ele": "1832",
+        "mountain_pass": "yes",
+        "name": "Col du Serpentin",
+        "natural": "saddle",
+        "@id": "node/3869655299",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8103364,
+          46.3194347
+        ]
+      },
+      "properties": {
+        "ele": "1856",
+        "mountain_pass": "yes",
+        "name": "Col d'Arvouin / Col de Savalène",
+        "name:fr-CH": "Col de Savalène",
+        "name:fr-FR": "Col d'Arvouin",
+        "natural": "saddle",
+        "old_name:fr-CH": "Col de Savalenaz",
+        "@id": "node/3870727272",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7715317,
+          46.3209781
+        ]
+      },
+      "properties": {
+        "ele": "1831",
+        "mountain_pass": "yes",
+        "name": "Col du Séchet",
+        "natural": "saddle",
+        "@id": "node/3873017443",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7880802,
+          46.3247272
+        ]
+      },
+      "properties": {
+        "mountain_pass": "yes",
+        "name": "Col de la Vache",
+        "natural": "saddle",
+        "@id": "node/3888448564",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7512516,
+          46.3470024
+        ]
+      },
+      "properties": {
+        "ele": "1944",
+        "lwn_name": "Col de Pavis",
+        "mountain_pass": "yes",
+        "name": "Col de Pavis",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "old_name": "Col de Planchamp;Col de Darbon",
+        "@id": "node/3890233377",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.742932,
+          46.3455894
+        ]
+      },
+      "properties": {
+        "ele": "1937",
+        "lwn_name": "Les Portes d'Oche",
+        "mountain_pass": "yes",
+        "name": "Les Portes d'Oche",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/3890239576",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7336278,
+          46.3569466
+        ]
+      },
+      "properties": {
+        "ele": "1877",
+        "mountain_pass": "yes",
+        "name": "Col de Trepertuis",
+        "natural": "saddle",
+        "@id": "node/3912587012",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6889481,
+          46.3701859
+        ]
+      },
+      "properties": {
+        "ele": "1175",
+        "mountain_pass": "yes",
+        "name": "Col de Creusaz",
+        "natural": "saddle",
+        "@id": "node/3922793891",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9596361,
+          45.8739761
+        ]
+      },
+      "properties": {
+        "ele": "3432",
+        "image": "https://dgtzuqphqg23d.cloudfront.net/VfnCjgUB5O53yG2SINB5EWdAHFxb_Wq7U4zQWxl2MeU-2048x1536.jpg",
+        "name": "Brèche Puiseux",
+        "natural": "saddle",
+        "@id": "node/4108317587",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9605169,
+          45.8766647
+        ]
+      },
+      "properties": {
+        "ele": "3401",
+        "name": "Brèche des Périades",
+        "natural": "saddle",
+        "@id": "node/4108317588",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7242421,
+          46.0322399
+        ]
+      },
+      "properties": {
+        "ele": "1921",
+        "mountain_pass": "yes",
+        "name": "Col de la Tenaz",
+        "natural": "saddle",
+        "@id": "node/4172534189",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3583893,
+          45.8399792
+        ]
+      },
+      "properties": {
+        "ele": "1299",
+        "mountain_pass": "yes",
+        "name": "Col de Plan Bois",
+        "natural": "saddle",
+        "@id": "node/4261115787",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4825365,
+          45.9255856
+        ]
+      },
+      "properties": {
+        "name": "Col des Confins",
+        "natural": "saddle",
+        "wikidata": "Q106437095",
+        "wikimedia_commons": "Category:Les Confins",
+        "wikipedia": "fr:Col des Confins",
+        "@id": "node/4306602275",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1396886,
+          46.0919632
+        ]
+      },
+      "properties": {
+        "ele": "1336",
+        "mountain_pass": "yes",
+        "name": "Col des Pitons",
+        "natural": "saddle",
+        "@id": "node/4315491133",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5742372,
+          45.981153
+        ]
+      },
+      "properties": {
+        "ele": "2324",
+        "name": "Col de la Forclaz",
+        "natural": "saddle",
+        "wikidata": "Q107185343",
+        "wikipedia": "fr:Col de la Forclaz (chaîne des Aravis)",
+        "@id": "node/4355364598",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3479846,
+          45.9551377
+        ]
+      },
+      "properties": {
+        "ele": "1790",
+        "name": "Pas du Loup",
+        "natural": "saddle",
+        "@id": "node/4359146058",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4735646,
+          46.0063198
+        ]
+      },
+      "properties": {
+        "name": "Porte d'Enfer",
+        "natural": "saddle",
+        "@id": "node/4363688236",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4098566,
+          45.9238709
+        ]
+      },
+      "properties": {
+        "ele": "956",
+        "mountain_pass": "yes",
+        "name": "Col de St Jean de Sixt",
+        "natural": "saddle",
+        "@id": "node/4382321707",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3837486,
+          45.7850686
+        ]
+      },
+      "properties": {
+        "ele": "1484",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "Col du Fer",
+        "mountain_pass": "yes",
+        "name": "Col du Fer",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/4461368009",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2511638,
+          45.8526842
+        ]
+      },
+      "properties": {
+        "ele": "1570",
+        "name": "Col des Frêtes",
+        "natural": "saddle",
+        "@id": "node/4461404463",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4817289,
+          46.2183855
+        ]
+      },
+      "properties": {
+        "ele": "1288",
+        "mountain_pass": "yes",
+        "name": "Col du Creux",
+        "natural": "saddle",
+        "@id": "node/4548251631",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.391727,
+          46.1029992
+        ]
+      },
+      "properties": {
+        "name": "Col de Saint-Jean",
+        "natural": "saddle",
+        "@id": "node/4570717263",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5745849,
+          46.0300458
+        ]
+      },
+      "properties": {
+        "ele": "1297",
+        "fixme": "position approximative à préciser sur le terrain",
+        "mountain_pass": "yes",
+        "name": "Col de Romme",
+        "natural": "saddle",
+        "wikidata": "Q2746513",
+        "wikipedia": "fr:Col de Romme",
+        "@id": "node/4644273077",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7483994,
+          46.3700758
+        ]
+      },
+      "properties": {
+        "ele": "1816",
+        "mountain_pass": "yes",
+        "name": "Col de Parchet",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/5017444733",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2298199,
+          45.6940631
+        ]
+      },
+      "properties": {
+        "ele": "1871",
+        "mountain_pass": "yes",
+        "name": "Col de Curtillet",
+        "natural": "saddle",
+        "@id": "node/5039066372",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7499086,
+          46.3414214
+        ]
+      },
+      "properties": {
+        "ele": "1925",
+        "name": "Col de Floray",
+        "natural": "saddle",
+        "old_name": "Pas du Fleura;Pas de Florée",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+        "@id": "node/5175435529",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7177288,
+          45.8595051
+        ]
+      },
+      "properties": {
+        "ele": "1253",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "La Tête du Truz",
+        "name": "La Tête du Truz",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/5434076845",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7514884,
+          46.3061116
+        ]
+      },
+      "properties": {
+        "ele": "1817",
+        "name": "Pas du Chien",
+        "natural": "saddle",
+        "@id": "node/5732088545",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4756948,
+          45.9922299
+        ]
+      },
+      "properties": {
+        "ele": "1613",
+        "mountain_pass": "yes",
+        "name": "Col de la Colombière",
+        "natural": "saddle",
+        "wikidata": "Q868223",
+        "wikipedia": "fr:Col de la Colombière",
+        "@id": "node/5798473967",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9347978,
+          45.8476055
+        ]
+      },
+      "properties": {
+        "ele": "3360",
+        "name": "Col du Géant",
+        "name:it": "Colle del Gigante",
+        "natural": "saddle",
+        "wikidata": "Q2982284",
+        "wikipedia": "it:Colle del Gigante",
+        "@id": "node/5818422348",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8053598,
+          46.1735406
+        ]
+      },
+      "properties": {
+        "ele": "2147",
+        "name": "Pas de Chavanette",
+        "natural": "saddle",
+        "@id": "node/5833418536",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6277989,
+          45.8679251
+        ]
+      },
+      "properties": {
+        "ele": "1096",
+        "mountain_pass": "yes",
+        "name": "Côte de Megeve",
+        "natural": "saddle",
+        "@id": "node/5921782671",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7360289,
+          45.7421815
+        ]
+      },
+      "properties": {
+        "name": "Col des Tufs",
+        "natural": "saddle",
+        "source": "IGN - 2023-09-15",
+        "wikidata": "Q49131373",
+        "@id": "node/6297565804",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8331097,
+          46.0071392
+        ]
+      },
+      "properties": {
+        "ele": "2314",
+        "name": "Col des Chaux",
+        "natural": "saddle",
+        "@id": "node/6654488911",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7443398,
+          45.7546384
+        ]
+      },
+      "properties": {
+        "ele": "2672",
+        "name": "Col d'Enclave",
+        "natural": "saddle",
+        "wikidata": "Q49130568",
+        "@id": "node/6688270629",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8261341,
+          46.1035851
+        ]
+      },
+      "properties": {
+        "ele": "2469",
+        "mountain_pass": "yes",
+        "name": "Col de la Boîte aux Lettres",
+        "natural": "saddle",
+        "@id": "node/6763653232",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8245347,
+          46.089989
+        ]
+      },
+      "properties": {
+        "name": "Col de Trécot",
+        "natural": "saddle",
+        "@id": "node/6764047412",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7515606,
+          46.3372872
+        ]
+      },
+      "properties": {
+        "ele": "1796",
+        "name": "Col de Bouaz",
+        "natural": "saddle",
+        "@id": "node/6786002927",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7086386,
+          46.2300277
+        ]
+      },
+      "properties": {
+        "ele": "1902",
+        "mountain_pass": "yes",
+        "name": "Col de Lens",
+        "natural": "saddle",
+        "@id": "node/7012186063",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2647377,
+          45.6930109
+        ]
+      },
+      "properties": {
+        "ele": "2070",
+        "name": "Col de la Sambuy",
+        "natural": "saddle",
+        "note": "ce nom n'a rien d'officiel, mais je n'avais pas d'autre idée. Il permet en ski de rando de passer face Nord, c'est bien pentu, mais faisable si le couloir est en condition.",
+        "@id": "node/7160159048",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8114187,
+          45.8251151
+        ]
+      },
+      "properties": {
+        "direction": "290",
+        "ele": "3358",
+        "name": "Col de Miage",
+        "name:fr": "Col de Miage",
+        "name:it": "Col de Miage",
+        "natural": "saddle",
+        "source": "Bing en pointant la crête (relatif au refuge Durier)",
+        "wikidata": "Q1030855",
+        "wikimedia_commons": "Category:Col de Miage",
+        "wikipedia": "it:Col de Miage",
+        "@id": "node/7164818559",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0166227,
+          45.9858214
+        ]
+      },
+      "properties": {
+        "ele": "3281",
+        "mountain_pass": "yes",
+        "name": "Col du Tour",
+        "natural": "saddle",
+        "@id": "node/7165008486",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8038738,
+          45.7899035
+        ]
+      },
+      "properties": {
+        "alt_name:fr": "Col de la Lée Blanche",
+        "ele": "3549",
+        "name": "Col de la Lex Blanche",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q118271163",
+        "@id": "node/7251779826",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806792,
+          45.7933157
+        ]
+      },
+      "properties": {
+        "ele": "3510",
+        "name": "Col de Tré-la-Tête",
+        "name:fr": "Col de Tré-la-Tête",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q118271170",
+        "@id": "node/7251779827",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8023395,
+          45.7840773
+        ]
+      },
+      "properties": {
+        "ele": "3616",
+        "name": "Col de la Scie",
+        "name:fr": "Col de la Scie",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q130459309",
+        "@id": "node/7251837120",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8983197,
+          45.8425457
+        ]
+      },
+      "properties": {
+        "ele": "3658",
+        "name": "Col Occidental de la Tour Ronde",
+        "natural": "saddle",
+        "@id": "node/7256252860",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8941784,
+          45.8428895
+        ]
+      },
+      "properties": {
+        "ele": "3666",
+        "name": "Col du Trident",
+        "natural": "saddle",
+        "@id": "node/7256252862",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8922566,
+          45.8437537
+        ]
+      },
+      "properties": {
+        "ele": "3699",
+        "name": "Col de la Calotte",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "@id": "node/7256451498",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9203621,
+          45.8460062
+        ]
+      },
+      "properties": {
+        "ele": "3439",
+        "name": "Col Occidental des Thoules",
+        "natural": "saddle",
+        "@id": "node/7259293218",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0142877,
+          45.9081424
+        ]
+      },
+      "properties": {
+        "name": "Col de Talèfre",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "@id": "node/7274341123",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0024913,
+          45.8961275
+        ]
+      },
+      "properties": {
+        "ele": "3480",
+        "name": "Col de Pierre Joseph",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q125316316",
+        "@id": "node/7274341126",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0157267,
+          45.9108536
+        ]
+      },
+      "properties": {
+        "ele": "3568",
+        "name": "Col du Piolet",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "@id": "node/7274365971",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0048423,
+          45.88417
+        ]
+      },
+      "properties": {
+        "ele": "3526",
+        "name": "Col des Petites Jorasses",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "@id": "node/7274424287",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9735074,
+          45.8677836
+        ]
+      },
+      "properties": {
+        "ele": "3819",
+        "name": "Col des Grandes Jorasses",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q720472",
+        "@id": "node/7274424293",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0200974,
+          45.9154559
+        ]
+      },
+      "properties": {
+        "ele": "3691",
+        "name": "Col de Triolet",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q132892471",
+        "@id": "node/7274427712",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3701699,
+          46.0290896
+        ]
+      },
+      "properties": {
+        "name": "Col du Pacheux",
+        "natural": "saddle",
+        "@id": "node/7623152874",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3850628,
+          46.0294208
+        ]
+      },
+      "properties": {
+        "lwn_name": "Col des Gardes",
+        "name": "Col des Gardes",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/7625479446",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7227358,
+          45.7931549
+        ]
+      },
+      "properties": {
+        "ele": "1490",
+        "expected_lwn_route_relations": "2",
+        "lwn_name": "La Sololieu",
+        "name": "La Sololieu",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/7696226822",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8121196,
+          46.1273843
+        ]
+      },
+      "properties": {
+        "ele": "2555",
+        "lwn_name": "Pas au Taureau",
+        "mountain_pass": "yes",
+        "name": "Pas au Taureau",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "@id": "node/7835503881",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.804319,
+          46.0090514
+        ]
+      },
+      "properties": {
+        "ele": "2038",
+        "name": "Petit Col d'Anterne",
+        "natural": "saddle",
+        "@id": "node/7873827153",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8863377,
+          46.0442891
+        ]
+      },
+      "properties": {
+        "ele": "2602",
+        "name": "Col des Corbeaux",
+        "natural": "saddle",
+        "@id": "node/7888176282",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2722239,
+          45.69337
+        ]
+      },
+      "properties": {
+        "ele": "1992",
+        "name": "Col des Fenêtres",
+        "natural": "saddle",
+        "@id": "node/8257398274",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0123925,
+          45.9921036
+        ]
+      },
+      "properties": {
+        "ele": "3383",
+        "name": "Col Purtscheller",
+        "natural": "saddle",
+        "@id": "node/8383634763",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0231896,
+          45.9784735
+        ]
+      },
+      "properties": {
+        "ele": "3409",
+        "name": "Col des Fourches",
+        "natural": "saddle",
+        "@id": "node/8394948803",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0376616,
+          45.9504864
+        ]
+      },
+      "properties": {
+        "ele": "3690",
+        "name": "Col Supérieur du Tour Noir",
+        "natural": "saddle",
+        "@id": "node/8398131980",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0339349,
+          45.9487358
+        ]
+      },
+      "properties": {
+        "ele": "3653",
+        "name": "Col des Améthystes",
+        "natural": "saddle",
+        "@id": "node/8398132010",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2405194,
+          45.9505989
+        ]
+      },
+      "properties": {
+        "ele": "1731",
+        "expected_lwn_route_relations": "3",
+        "lwn_name": "Le Grand Montoir",
+        "mountain_pass": "yes",
+        "name": "Le Grand Montoir",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "@id": "node/8511176811",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.927865,
+          45.8494053
+        ]
+      },
+      "properties": {
+        "ele": "3407",
+        "name": "Col des Flambeaux",
+        "natural": "saddle",
+        "@id": "node/8735598170",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7626678,
+          45.7693287
+        ]
+      },
+      "properties": {
+        "ele": "2895",
+        "name": "Col du Mont Tondu",
+        "natural": "saddle",
+        "@id": "node/8744922662",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2684834,
+          45.9162219
+        ]
+      },
+      "properties": {
+        "ele": "1663",
+        "name": "Col de la Bourse",
+        "natural": "saddle",
+        "@id": "node/9585363285",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4396352,
+          45.9167578
+        ]
+      },
+      "properties": {
+        "ele": "1365",
+        "name": "Col des Mouilles",
+        "natural": "saddle",
+        "@id": "node/9585363287",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4070681,
+          45.8189539
+        ]
+      },
+      "properties": {
+        "ele": "1683",
+        "name": "Passage du Freu",
+        "natural": "saddle",
+        "@id": "node/9585363289",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4151583,
+          45.8066183
+        ]
+      },
+      "properties": {
+        "ele": "2070",
+        "mountain_pass": "yes",
+        "name": "Col des Porthets",
+        "natural": "saddle",
+        "@id": "node/9585363290",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2599773,
+          45.8561789
+        ]
+      },
+      "properties": {
+        "ele": "1705",
+        "loc_name": "Col de l’Aulp",
+        "name": "Col de l'Eau",
+        "natural": "saddle",
+        "@id": "node/9677843972",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1182427,
+          45.8673399
+        ]
+      },
+      "properties": {
+        "ele": "845",
+        "name": "Le Pas de l'Âne",
+        "natural": "saddle",
+        "@id": "node/9677843978",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2618443,
+          45.8431726
+        ]
+      },
+      "properties": {
+        "ele": "1572",
+        "name": "Pas de L'Aulp",
+        "natural": "saddle",
+        "@id": "node/9677843982",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.254219,
+          45.8214736
+        ]
+      },
+      "properties": {
+        "ele": "1449",
+        "name": "Le Collet",
+        "natural": "saddle",
+        "@id": "node/9677843984",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.178562,
+          45.7485031
+        ]
+      },
+      "properties": {
+        "ele": "1543",
+        "name": "Col des Glaciers",
+        "natural": "saddle",
+        "@id": "node/9677925094",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9992923,
+          45.7781446
+        ]
+      },
+      "properties": {
+        "ele": "644",
+        "mountain_pass": "yes",
+        "name": "Col du Goléron",
+        "natural": "saddle",
+        "@id": "node/9874426171",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.410319,
+          45.8125583
+        ]
+      },
+      "properties": {
+        "name": "Col de la Tulle",
+        "natural": "saddle",
+        "@id": "node/9878753954",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8527445,
+          46.0347732
+        ]
+      },
+      "properties": {
+        "ele": "2808",
+        "name": "Col des Eves",
+        "natural": "saddle",
+        "@id": "node/9945436568",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7883574,
+          46.0107268
+        ]
+      },
+      "properties": {
+        "name": "Pas au Mulet",
+        "natural": "saddle",
+        "@id": "node/9961635241",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5360583,
+          45.9228985
+        ]
+      },
+      "properties": {
+        "ele": "2220",
+        "name": "Col de Tré le Crot",
+        "natural": "saddle",
+        "@id": "node/10200573992",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4060163,
+          45.8775759
+        ]
+      },
+      "properties": {
+        "ele": "1467",
+        "mountain_pass": "yes",
+        "name": "Col de la Croix Fry",
+        "natural": "saddle",
+        "wikidata": "Q2982162",
+        "wikipedia": "fr:Col de la Croix Fry",
+        "@id": "node/10313218183",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9008369,
+          46.00671
+        ]
+      },
+      "properties": {
+        "ele": "2350",
+        "name": "Brêche de Praz-Torrent",
+        "natural": "saddle",
+        "@id": "node/10949039503",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8976895,
+          46.004728
+        ]
+      },
+      "properties": {
+        "ele": "2650",
+        "name": "Col de la Mesure",
+        "natural": "saddle",
+        "@id": "node/10949092897",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4519364,
+          45.8594822
+        ]
+      },
+      "properties": {
+        "ele": "2250",
+        "name": "Col de la Blonnière",
+        "natural": "saddle",
+        "@id": "node/11144573745",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5947835,
+          46.1726678
+        ]
+      },
+      "properties": {
+        "name": "Col de la Bolire",
+        "natural": "saddle",
+        "source": "IGN - 2021-06",
+        "@id": "node/11174468237",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1071615,
+          45.7976609
+        ]
+      },
+      "properties": {
+        "alt_name": "Semnoz",
+        "ele": "1670",
+        "mountain_pass": "yes",
+        "name": "Crêt de Châtillon",
+        "@id": "node/11443691093",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6379658,
+          46.1593705
+        ]
+      },
+      "properties": {
+        "ele": "1632",
+        "name": "Col de Lachat",
+        "natural": "saddle",
+        "source": "IGN - 2023-09-15",
+        "@id": "node/11463229829",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4340248,
+          45.8435611
+        ]
+      },
+      "properties": {
+        "fixme": "verif position exact",
+        "name": "Col du Passet",
+        "natural": "saddle",
+        "@id": "node/11608723812",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860716,
+          46.125892
+        ]
+      },
+      "properties": {
+        "ele": "2407",
+        "lwn_name": "Col de Sageroux",
+        "mountain_pass": "yes",
+        "name": "Col de Sageroux",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "@id": "node/11793149658",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2862204,
+          45.794979
+        ]
+      },
+      "properties": {
+        "ele": "1910",
+        "name": "Col du Pas de la Mine",
+        "natural": "saddle",
+        "@id": "node/12012247991",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0380323,
+          45.9446051
+        ]
+      },
+      "properties": {
+        "ele": "3544",
+        "name": "Col d'Argentière",
+        "natural": "saddle",
+        "@id": "node/12040705339",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8144576,
+          46.2170827
+        ]
+      },
+      "properties": {
+        "ele": "2049",
+        "name": "Pas du Blattin",
+        "natural": "saddle",
+        "@id": "node/12040705343",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8097042,
+          46.1799033
+        ]
+      },
+      "properties": {
+        "ele": "2083",
+        "name": "Col de Cuboré",
+        "natural": "saddle",
+        "@id": "node/12040718998",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0369935,
+          45.9420916
+        ]
+      },
+      "properties": {
+        "ele": "3508",
+        "name": "Brèche d'Argentière",
+        "natural": "saddle",
+        "@id": "node/12040719243",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0430978,
+          45.9271089
+        ]
+      },
+      "properties": {
+        "ele": "3428",
+        "name": "Brèche de l'Amône",
+        "natural": "saddle",
+        "@id": "node/12040719383",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7983937,
+          46.168208
+        ]
+      },
+      "properties": {
+        "ele": "2094",
+        "name": "Col de Bassachaux",
+        "natural": "saddle",
+        "@id": "node/12040719438",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5446417,
+          46.168184
+        ]
+      },
+      "properties": {
+        "ele": "1636",
+        "lwn_name": "Col de Cordon",
+        "mountain_pass": "yes",
+        "name": "Col de Cordon",
+        "natural": "saddle",
+        "network:type": "node_network",
+        "network:wikidata": "Q137260811",
+        "@id": "node/12331310481",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4165059,
+          46.0411818
+        ]
+      },
+      "properties": {
+        "ele": "1759",
+        "mountain_pass": "yes",
+        "name": "Col d'Andey",
+        "natural": "saddle",
+        "@id": "node/12352432727",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1074975,
+          46.0030865
+        ]
+      },
+      "properties": {
+        "ele": "702",
+        "mountain_pass": "yes",
+        "name": "Col de la Mallebranche",
+        "natural": "saddle",
+        "wikidata": "Q115354774",
+        "wikipedia": "fr:Col de la Mallebranche",
+        "@id": "node/12569523200",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8950574,
+          46.0013087
+        ]
+      },
+      "properties": {
+        "ele": "2703",
+        "mountain_pass": "yes",
+        "name": "Col de l'Aiguille Morris",
+        "natural": "saddle",
+        "@id": "node/12890357799",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8870107,
+          45.8694728
+        ]
+      },
+      "properties": {
+        "ele": "3518",
+        "name": "Col du Midi",
+        "natural": "saddle",
+        "wikidata": "Q49131459",
+        "wikipedia": "fr:Col du Midi",
+        "@id": "node/13013781120",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9010037,
+          45.8696282
+        ]
+      },
+      "properties": {
+        "ele": "3402",
+        "name": "Col du Gros Rognon",
+        "natural": "saddle",
+        "wikidata": "Q118954432",
+        "wikipedia": "fr:Col du Gros Rognon",
+        "@id": "node/13013810197",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9163051,
+          45.8878579
+        ]
+      },
+      "properties": {
+        "ele": "3304",
+        "name": "Col du Requin",
+        "natural": "saddle",
+        "@id": "node/13013825212",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9302517,
+          45.9078285
+        ]
+      },
+      "properties": {
+        "ele": "2523",
+        "name": "Fenêtre de Trélaporte",
+        "natural": "saddle",
+        "@id": "node/13013830134",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9984874,
+          45.9284221
+        ]
+      },
+      "properties": {
+        "ele": "3720",
+        "name": "Col de la Tour des Courtes",
+        "natural": "saddle",
+        "@id": "node/13017011149",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0135364,
+          45.9199956
+        ]
+      },
+      "properties": {
+        "ele": "3569",
+        "name": "Col des Courtes",
+        "natural": "saddle",
+        "@id": "node/13017044044",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4251189,
+          46.0288964
+        ]
+      },
+      "properties": {
+        "ele": "1497",
+        "fixme": "doublon avec https://www.openstreetmap.org/node/343488940/history#map=19/46.031830/6.422057 ?",
+        "name": "Col de Solaison",
+        "natural": "saddle",
+        "wikipedia": "fr:Col de Solaison",
+        "@id": "node/13252169269",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806792,
+          45.7933157
+        ]
+      },
+      "properties": {
+        "ele": "3510",
+        "name": "Col de Tré-la-Tête",
+        "name:fr": "Col de Tré-la-Tête",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q118271170",
+        "@id": "node/13467923920",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8023395,
+          45.7840773
+        ]
+      },
+      "properties": {
+        "ele": "3616",
+        "name": "Col de la Scie",
+        "name:fr": "Col de la Scie",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q130459309",
+        "@id": "node/13467925500",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8083973,
+          45.812415
+        ]
+      },
+      "properties": {
+        "ele": "3321",
+        "name": "Col Infranchissable",
+        "natural": "saddle",
+        "wikidata": "Q2981952",
+        "@id": "node/13467930732",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8741834,
+          45.841719
+        ]
+      },
+      "properties": {
+        "direction": "NW",
+        "ele": "4309",
+        "name": "Col de la Brenva / Colle della Brenva",
+        "name:fr": "Col de la Brenva",
+        "name:it": "Colle della Brenva",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q124557491",
+        "@id": "node/13467930763",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8038738,
+          45.7899035
+        ]
+      },
+      "properties": {
+        "alt_name:fr": "Col de la Lée Blanche",
+        "ele": "3549",
+        "name": "Col de la Lex Blanche",
+        "natural": "saddle",
+        "source": "Carta Tecnica Regione VDA",
+        "wikidata": "Q118271163",
+        "@id": "node/13467936211",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9612092,
+          45.9188243
+        ]
+      },
+      "properties": {
+        "ele": "3198",
+        "name": "Brèche Moine-Nonne",
+        "natural": "saddle",
+        "@id": "node/13605190204",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0537249,
+          46.0801998
+        ]
+      },
+      "properties": {
+        "ele": "801",
+        "mountain_pass": "yes",
+        "name": "La Croix Biche",
+        "@id": "node/13646502708",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9128732,
+          45.8997092
+        ]
+      },
+      "properties": {
+        "ele": "3449",
+        "name": "Brèche de Blaitière",
+        "natural": "saddle",
+        "@id": "node/14124434676",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9112798,
+          45.8958191
+        ]
+      },
+      "properties": {
+        "ele": "3352",
+        "name": "Col de Blaitière",
+        "natural": "saddle",
+        "@id": "node/14124434693",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6844398,
+          45.9849522
+        ]
+      },
+      "properties": {
+        "name": "Faille d'Aujon",
+        "natural": "saddle",
+        "@id": "node/14127823334",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7020909,
+          45.9818943
+        ]
+      },
+      "properties": {
+        "ele": "2251",
+        "name": "Col de Monthieu",
+        "natural": "saddle",
+        "@id": "node/14246564677",
+        "@type": "node"
+      }
+    }
+  ]
+}

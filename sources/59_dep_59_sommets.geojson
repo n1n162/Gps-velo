@@ -1,0 +1,787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6678014,
+          50.7830939
+        ]
+      },
+      "properties": {
+        "ele": "164",
+        "name": "Mont des Cats",
+        "name:fr": "Mont des Cats",
+        "name:nl": "Katsberg",
+        "natural": "peak",
+        "wikidata": "Q2326371",
+        "wikipedia": "fr:Mont des Cats",
+        "@id": "node/301648123",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4840511,
+          50.8016641
+        ]
+      },
+      "properties": {
+        "ele": "176",
+        "name": "Mont Cassel",
+        "name:fr": "Mont Cassel",
+        "name:nl": "Kasselberg",
+        "natural": "peak",
+        "tourism": "attraction",
+        "wikidata": "Q2712817",
+        "wikipedia": "nl:Kasselberg",
+        "@id": "node/385559407",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7328792,
+          50.7788793
+        ]
+      },
+      "properties": {
+        "ele": "152",
+        "name": "Mont Noir",
+        "name:fr": "Mont Noir",
+        "name:nl": "Zwarteberg",
+        "name:vls": "Zwortnberg",
+        "natural": "peak",
+        "wikidata": "Q2134109",
+        "wikipedia": "fr:Mont Noir",
+        "@id": "node/765969227",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2205901,
+          50.8274091
+        ]
+      },
+      "properties": {
+        "ele": "72",
+        "name": "Mont de Watten",
+        "natural": "peak",
+        "@id": "node/767101434",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4998762,
+          50.4080947
+        ]
+      },
+      "properties": {
+        "direction": "0-360",
+        "ele": "98",
+        "name": "Terril Sabatier Nord (175)",
+        "natural": "peak",
+        "tourism": "viewpoint",
+        "@id": "node/1455855288",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6800667,
+          50.7920809
+        ]
+      },
+      "properties": {
+        "ele": "139",
+        "name": "Mont de Boeschepe",
+        "name:fr": "Mont de Boeschepe",
+        "name:nl": "Boeschepeberg",
+        "natural": "peak",
+        "@id": "node/1706103375",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7002397,
+          50.7892413
+        ]
+      },
+      "properties": {
+        "ele": "110",
+        "name": "Mont Kokereel",
+        "name:fr": "Mont Kokereel",
+        "name:nl": "Kokereelberg",
+        "natural": "peak",
+        "@id": "node/1706103392",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.505767,
+          50.8003894
+        ]
+      },
+      "properties": {
+        "ele": "159",
+        "name": "Mont des Récollets",
+        "name:nl": "Wouwenberg",
+        "natural": "peak",
+        "@id": "node/2344927478",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0584036,
+          50.6804369
+        ]
+      },
+      "properties": {
+        "name": "Butte de Chico Mendès",
+        "natural": "peak",
+        "@id": "node/4690313130",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3715394,
+          50.3263801
+        ]
+      },
+      "properties": {
+        "ele": "76",
+        "name": "Terril Renard",
+        "natural": "peak",
+        "@id": "node/5622321093",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3817768,
+          50.3320215
+        ]
+      },
+      "properties": {
+        "ele": "52",
+        "name": "Terril 156",
+        "natural": "peak",
+        "@id": "node/5622321107",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4721803,
+          50.4098298
+        ]
+      },
+      "properties": {
+        "ele": "57",
+        "name": "Terril 173 (Mont des Ermites)",
+        "natural": "peak",
+        "@id": "node/5624961785",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5005362,
+          50.4034297
+        ]
+      },
+      "properties": {
+        "ele": "74",
+        "name": "Terril Sabatier sud (Terril 174)",
+        "natural": "peak",
+        "@id": "node/5624996489",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6705522,
+          50.7871159
+        ]
+      },
+      "properties": {
+        "ele": "109",
+        "name": "Col de Berthen",
+        "natural": "peak",
+        "@id": "node/6215911717",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5440221,
+          50.4138662
+        ]
+      },
+      "properties": {
+        "name": "Terril la Grange ouest (Terril 178)",
+        "natural": "peak",
+        "@id": "node/6635156551",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1477213,
+          50.7634983
+        ]
+      },
+      "properties": {
+        "ele": "61",
+        "name": "Mont Halluin",
+        "natural": "peak",
+        "@id": "node/8757612308",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2779499,
+          50.8538098
+        ]
+      },
+      "properties": {
+        "name": "Galgberg",
+        "natural": "peak",
+        "source": "IGN - 2021-06",
+        "@id": "node/9027126156",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339743,
+          50.8474396
+        ]
+      },
+      "properties": {
+        "name": "Hoogen Hill",
+        "natural": "peak",
+        "source": "IGN - 2021-06",
+        "@id": "node/9027126169",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2549098,
+          50.7895353
+        ]
+      },
+      "properties": {
+        "ele": "22",
+        "name": "La Montagne",
+        "natural": "peak",
+        "source": "IGN - 2021-06",
+        "@id": "node/9027126190",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2844101,
+          50.8668773
+        ]
+      },
+      "properties": {
+        "name": "Ronsberg",
+        "natural": "peak",
+        "source": "IGN - 2021-06",
+        "@id": "node/9027126194",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5171941,
+          50.4140275
+        ]
+      },
+      "properties": {
+        "name": "Terril du lavoir Rousseau (Terril 178)",
+        "natural": "peak",
+        "@id": "node/9125707188",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5492198,
+          50.4175845
+        ]
+      },
+      "properties": {
+        "name": "Terril la Grange Est (Terril 177)",
+        "natural": "peak",
+        "@id": "node/9152914139",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5427366,
+          50.4155547
+        ]
+      },
+      "properties": {
+        "name": "Terril",
+        "natural": "peak",
+        "@id": "node/9234014119",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7610862,
+          50.7573388
+        ]
+      },
+      "properties": {
+        "ele": "71",
+        "name": "Hille",
+        "natural": "peak",
+        "@id": "node/9970182526",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7675388,
+          50.7417141
+        ]
+      },
+      "properties": {
+        "ele": "75",
+        "name": "Ravensberg",
+        "natural": "peak",
+        "@id": "node/9970182527",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7577903,
+          50.7316395
+        ]
+      },
+      "properties": {
+        "ele": "43",
+        "name": "Mont de Lille",
+        "natural": "peak",
+        "@id": "node/9970182528",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3890536,
+          50.7190689
+        ]
+      },
+      "properties": {
+        "ele": "60",
+        "fixme": "Position et altitude du sommet approximatives (Correlation). À ajuster lorsque le RGE ALTI Lidar sera disponible dans cette zone.",
+        "name": "Mont d'Inventé",
+        "natural": "peak",
+        "source": "IGN BDTOPO 2022-06-15",
+        "source:ele": "IGN RGEALTI 2021-09-20 (Correlation)",
+        "@id": "node/9975101322",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.167769,
+          50.365764
+        ]
+      },
+      "properties": {
+        "ele": "40",
+        "name": "Mont des Vignes",
+        "natural": "peak",
+        "source": "IGN BDTOPO 2022-06-15",
+        "source:ele": "IGN RGEALTI 2021-09-20 (Lidar)",
+        "@id": "node/9975103596",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1697597,
+          50.3692266
+        ]
+      },
+      "properties": {
+        "ele": "33",
+        "fixme": "Position et altitude du sommet approximatives (Correlation). À ajuster lorsque le RGE ALTI Lidar sera disponible dans cette zone.",
+        "name": "Mont Corbeau",
+        "natural": "peak",
+        "source": "IGN BDTOPO 2022-06-15",
+        "source:ele": "IGN RGEALTI 2021-09-20 (Correlation)",
+        "@id": "node/9975104522",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2133324,
+          50.1839811
+        ]
+      },
+      "properties": {
+        "ele": "67",
+        "name": "Mont-Farrand",
+        "natural": "peak",
+        "@id": "node/10238803144",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2304558,
+          50.202202
+        ]
+      },
+      "properties": {
+        "ele": "82",
+        "name": "Mont Blanc",
+        "natural": "peak",
+        "@id": "node/11014116720",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.214782,
+          50.1385474
+        ]
+      },
+      "properties": {
+        "ele": "92",
+        "name": "Mont sur l'Œuvre",
+        "natural": "peak",
+        "place": "locality",
+        "ref:FR:FANTOIR": "59520B023",
+        "@id": "node/11014116721",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.194745,
+          50.1720227
+        ]
+      },
+      "properties": {
+        "name": "Monts de Prémy",
+        "natural": "peak",
+        "source": "IGN - 2023-09-15",
+        "@id": "node/11519065362",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.930539,
+          50.6371726
+        ]
+      },
+      "properties": {
+        "ele": "39",
+        "name": "Mont Pindo",
+        "natural": "peak",
+        "@id": "node/12137680290",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4288736,
+          50.4958689
+        ]
+      },
+      "properties": {
+        "ele": "40",
+        "name": "Mont de Ligne",
+        "natural": "peak",
+        "source": "IGN - 2024-03-15",
+        "@id": "node/12964550503",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0421759,
+          50.4108545
+        ]
+      },
+      "properties": {
+        "name": "Terril №142, 8 de l'Escarpelle",
+        "natural": "peak",
+        "@id": "node/13730392820",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2415086,
+          50.1713872
+        ]
+      },
+      "properties": {
+        "ele": "82",
+        "name": "Mont des Bœufs",
+        "natural": "peak",
+        "@id": "node/13770787840",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4815036,
+          50.2819244
+        ]
+      },
+      "properties": {
+        "ele": "82",
+        "name": "Mont de Cailloux",
+        "natural": "peak",
+        "source": "IGN - 2025-12-15",
+        "@id": "node/13893377302",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1449072,
+          50.2988096
+        ]
+      },
+      "properties": {
+        "ele": "87",
+        "name": "Mont Delvigne",
+        "natural": "peak",
+        "source": "IGN - 2025-12-15;https://www.bugnicourt.fr/fileadmin/Public/Publications__PDF_/PLU/2017_documents/01a_RP_PLU_BUGNICOURT_app_31-07-2017-compresse.pdf",
+        "@id": "node/13916624540",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1376225,
+          50.2967692
+        ]
+      },
+      "properties": {
+        "ele": "78",
+        "name": "Mont Verlet",
+        "natural": "peak",
+        "source": "IGN - 2025-12-15;https://www.bugnicourt.fr/fileadmin/Public/Publications__PDF_/PLU/2017_documents/01a_RP_PLU_BUGNICOURT_app_31-07-2017-compresse.pdf",
+        "@id": "node/13916624541",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1312514,
+          50.3003057
+        ]
+      },
+      "properties": {
+        "ele": "76",
+        "name": "Grand Mont",
+        "natural": "peak",
+        "source": "IGN - 2025-12-15;https://www.bugnicourt.fr/fileadmin/Public/Publications__PDF_/PLU/2017_documents/01a_RP_PLU_BUGNICOURT_app_31-07-2017-compresse.pdf",
+        "@id": "node/13916624542",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9995947,
+          50.342995
+        ]
+      },
+      "properties": {
+        "ele": "138",
+        "name": "Butte de Solmont",
+        "natural": "peak",
+        "source": "IGN - 2026-06-15",
+        "@id": "node/14094242488",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.09304,
+          50.2880385
+        ]
+      },
+      "properties": {
+        "ele": "60",
+        "name": "Le Mont",
+        "natural": "peak",
+        "source": "IGN - 2026-09-15",
+        "@id": "node/14269134985",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1374197,
+          50.2760465
+        ]
+      },
+      "properties": {
+        "ele": "52",
+        "name": "Mont Bourlivet",
+        "natural": "peak",
+        "source": "IGN - 2026-09-15",
+        "@id": "node/14272326123",
+        "@type": "node"
+      }
+    }
+  ]
+}
